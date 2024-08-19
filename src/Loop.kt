@@ -14,5 +14,5 @@ fun main() {
     } while (pizzaSlices < 7)
     pizzaSlices++
     println("There are $pizzaSlices slices of pizza. Hooray! We have a whole pizza! :D")
-    
+
 }
